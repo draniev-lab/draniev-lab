@@ -1,86 +1,44 @@
-# Veinard Josué TETE
+# Veinard Josué TETE — Developer Portfolio
 
-### Software Developer | AI & Data | Cybersecurity
+Personal developer portfolio for **Veinard Josué TETE**, focused on software engineering, AI, data and cybersecurity.
 
-I’m a developer from Togo building practical digital solutions with a strong interest in **software engineering, artificial intelligence, data, cybersecurity and business systems**.
+## 🌐 Portfolio
 
-I learn by building real projects and I’m currently strengthening my professional workflow around **Git, GitHub, CI/CD, clean architecture and collaborative development**.
+**Live site:** https://draniev-lab.github.io/draniev-lab/
 
----
+## 🧩 Portfolio stack
 
-## Areas of Focus
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Responsive / mobile-first layout
+- GitHub Actions + GitHub Pages
 
-- Software and web application development
-- Artificial Intelligence and Data
-- Cybersecurity and secure application practices
-- Business intelligence and data visualization
-- ERP and governance solutions
-- Firebase, cloud services and developer tooling
+## ✨ Highlights
 
----
+- Developer-focused hero and terminal-style profile panel
+- Technical stack grouped by domain
+- Project showcase with status and technology tags
+- Professional journey / learning timeline
+- Responsive mobile navigation
+- Scroll-reveal animations with reduced-motion support
+- SEO metadata, Open Graph metadata and Person structured data
+- Custom favicon
 
-## Technologies
+## 🚀 Deployment
 
-**Languages & Development**
+The site is stored in `portfolio/` and deployed automatically to GitHub Pages from `main` through `.github/workflows/deploy-pages.yml`.
 
-`Python` `Dart` `HTML` `CSS` `JavaScript`
+## 📁 Structure
 
-**Frameworks & Platforms**
+```text
+portfolio/
+├── index.html
+├── style.css
+├── script.js
+└── favicon.svg
+```
 
-`Flutter` `Firebase` `GitHub` `Docker` `VS Code`
+## 📄 License
 
-**Data & AI**
-
-`Big Data` `Data Analysis` `AI/ML` `Looker Studio`
-
-**Engineering Practices**
-
-`Git` `GitHub Actions` `REST APIs` `CI/CD` `Clean Code`
-
----
-
-## Featured Projects
-
-### LID-TOGO — Governance ERP
-
-A digital platform focused on organizational governance, management and operational workflows.
-
-**Focus:** ERP | Flutter | Firebase | Data | Governance
-
-### ERP & Business Systems
-
-Exploring practical ERP architectures and open-source business management ecosystems.
-
-### AI & Data Projects
-
-Projects and experiments focused on Python, data processing, automation and applied artificial intelligence.
-
----
-
-## Currently Learning
-
-- Professional Git and GitHub workflows
-- Software architecture and clean code
-- CI/CD with GitHub Actions
-- Docker and containerized development
-- Advanced Python
-- AI engineering and data systems
-- Cybersecurity fundamentals
-
----
-
-## Developer Philosophy
-
-> Build it. Understand it. Test it. Document it. Improve it.
-
-I value **practical learning, clean engineering, continuous improvement and solving real problems**.
-
----
-
-## Contact
-
-GitHub: [@draniev-lab](https://github.com/draniev-lab)
-
----
-
-If you find one of my projects useful, feel free to explore the repository and follow the development.
+MIT
