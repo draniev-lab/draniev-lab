@@ -1,31 +1,31 @@
-# 👋 Hi, I'm Veinard Josué TETE
+# Veinard Josué TETE
 
-### Software Developer • AI & Data • Cybersecurity
+### Software Developer | AI & Data | Cybersecurity
 
-I’m a Togolese developer building practical digital solutions with a strong interest in **software engineering, artificial intelligence, data, cybersecurity and business systems**.
+I’m a developer from Togo building practical digital solutions with a strong interest in **software engineering, artificial intelligence, data, cybersecurity and business systems**.
 
 I learn by building real projects and I’m currently strengthening my professional workflow around **Git, GitHub, CI/CD, clean architecture and collaborative development**.
 
 ---
 
-## 🚀 What I work on
+## Areas of Focus
 
-- 💻 Software & web application development
-- 🤖 Artificial Intelligence & Data
-- 🔐 Cybersecurity & secure application practices
-- 📊 Business intelligence and data visualization
-- 🏢 ERP and governance solutions
-- ☁️ Firebase, cloud services and developer tooling
+- Software and web application development
+- Artificial Intelligence and Data
+- Cybersecurity and secure application practices
+- Business intelligence and data visualization
+- ERP and governance solutions
+- Firebase, cloud services and developer tooling
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
-**Languages & development**
+**Languages & Development**
 
 `Python` `Dart` `HTML` `CSS` `JavaScript`
 
-**Frameworks & platforms**
+**Frameworks & Platforms**
 
 `Flutter` `Firebase` `GitHub` `Docker` `VS Code`
 
@@ -33,19 +33,19 @@ I learn by building real projects and I’m currently strengthening my professio
 
 `Big Data` `Data Analysis` `AI/ML` `Looker Studio`
 
-**Engineering practices**
+**Engineering Practices**
 
 `Git` `GitHub Actions` `REST APIs` `CI/CD` `Clean Code`
 
 ---
 
-## ⭐ Featured projects
+## Featured Projects
 
 ### LID-TOGO — Governance ERP
 
 A digital platform focused on organizational governance, management and operational workflows.
 
-**Focus:** ERP • Flutter • Firebase • Data • Governance
+**Focus:** ERP | Flutter | Firebase | Data | Governance
 
 ### ERP & Business Systems
 
@@ -57,9 +57,9 @@ Projects and experiments focused on Python, data processing, automation and appl
 
 ---
 
-## 📚 Currently learning
+## Currently Learning
 
-- Professional Git & GitHub workflows
+- Professional Git and GitHub workflows
 - Software architecture and clean code
 - CI/CD with GitHub Actions
 - Docker and containerized development
@@ -69,7 +69,7 @@ Projects and experiments focused on Python, data processing, automation and appl
 
 ---
 
-## 🎯 Developer philosophy
+## Developer Philosophy
 
 > Build it. Understand it. Test it. Document it. Improve it.
 
@@ -77,10 +77,10 @@ I value **practical learning, clean engineering, continuous improvement and solv
 
 ---
 
-## 📫 Connect
+## Contact
 
-- GitHub: [@draniev-lab](https://github.com/draniev-lab)
+GitHub: [@draniev-lab](https://github.com/draniev-lab)
 
 ---
 
-⭐ If you find one of my projects useful, feel free to explore the repository and follow the development.
+If you find one of my projects useful, feel free to explore the repository and follow the development.
