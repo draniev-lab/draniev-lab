@@ -1,35 +1,75 @@
 # Veinard Josué TETE — Developer Portfolio
 
-Personal developer portfolio for **Veinard Josué TETE**, focused on software engineering, AI, data and cybersecurity.
+Personal developer portfolio focused on software engineering, artificial intelligence, data and cybersecurity.
 
-## 🌐 Portfolio
+## Portfolio
 
 **Live site:** https://draniev-lab.github.io/draniev-lab/
 
-## 🧩 Portfolio stack
+**Source repository:** https://github.com/draniev-lab/draniev-lab
+
+## Profile
+
+I am a developer in training with a background in Computer Science, AI and Big Data. I build practical digital systems while developing my skills in software engineering, data, artificial intelligence and cybersecurity.
+
+My current focus is on turning technical concepts into useful, maintainable and well-structured applications.
+
+## Technical Stack
+
+### Development
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
-- Responsive / mobile-first layout
-- GitHub Actions + GitHub Pages
+- JavaScript
+- Python
+- Flutter
+- Firebase
 
-## ✨ Highlights
+### Data and AI
 
-- Developer-focused hero and terminal-style profile panel
-- Technical stack grouped by domain
-- Project showcase with status and technology tags
-- Professional journey / learning timeline
-- Responsive mobile navigation
-- Scroll-reveal animations with reduced-motion support
-- SEO metadata, Open Graph metadata and Person structured data
-- Custom favicon
+- Data analysis
+- Big Data fundamentals
+- Artificial intelligence fundamentals
+- Data visualization
 
-## 🚀 Deployment
+### DevOps and Infrastructure
 
-The site is stored in `portfolio/` and deployed automatically to GitHub Pages from `main` through `.github/workflows/deploy-pages.yml`.
+- Git and GitHub
+- GitHub Actions
+- GitHub Pages
+- Docker
+- Docker Compose
+- Linux
 
-## 📁 Structure
+### Design and Tools
+
+- Figma
+- VS Code
+- GitHub Codespaces
+
+## Selected Projects
+
+### LID-TOGO Governance ERP
+
+A governance-oriented ERP project designed to centralize organizational operations, data and reporting.
+
+**Technologies:** Flutter, Firebase, ERP, data management
+
+### GitHub Skills Lab
+
+A practical repository used to develop and demonstrate GitHub workflows, version control and collaborative development practices.
+
+Repository: https://github.com/draniev-lab/skills-introduction-to-github
+
+### Developer Portfolio
+
+This repository contains the source code of my personal portfolio, including the responsive interface, technical presentation, project showcase and GitHub Pages deployment workflow.
+
+## Deployment
+
+The portfolio is stored in the `portfolio/` directory and deployed automatically to GitHub Pages through GitHub Actions whenever changes are pushed to the `main` branch.
+
+## Repository Structure
 
 ```text
 portfolio/
@@ -39,6 +79,6 @@ portfolio/
 └── favicon.svg
 ```
 
-## 📄 License
+## License
 
 MIT
